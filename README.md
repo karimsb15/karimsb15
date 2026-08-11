@@ -35,11 +35,11 @@ A learning-first implementation of a small GPT-style language model, covering to
 
 `Python` `PyTorch` `pytest`
 
-### Workflow Report Bot — preparing for release
+### [Automation Control Center — safe demo](https://github.com/karimsb15/automation-control-center-demo)
 
-A scheduled reporting tool that reads Google Sheets audit activity, counts unique edited rows, and writes daily reports with persistent state.
+A portfolio-safe Playwright dashboard that runs concurrent browser jobs against a bundled localhost store, then records live progress, structured results, and screenshots.
 
-`Python` `Google Sheets API` `Automation`
+`Python` `Playwright` `Concurrency` `Automation`
 
 ### Task Manager CLI — preparing for release
 
